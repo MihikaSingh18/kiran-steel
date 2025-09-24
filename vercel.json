@@ -6,7 +6,7 @@
   ],
   "routes": [
     { "src": "/(.*)", "dest": "public/index.html" },
-    { "src": "/(.*)", "dest": "api/send.js" }
+    { "src": "/api/(.*)", "dest": "api/send.js" }
   ],
   "functions": {
     "api/send.js": {
