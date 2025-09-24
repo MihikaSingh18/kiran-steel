@@ -12,5 +12,17 @@
     "dotenv": "^16.6.1",
     "express": "^4.21.2",
     "nodemailer": "^6.10.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MihikaSingh18/kiran-steel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MihikaSingh18/kiran-steel/issues"
+  },
+  "homepage": "https://github.com/MihikaSingh18/kiran-steel#readme",
+  "description": ""
 }
